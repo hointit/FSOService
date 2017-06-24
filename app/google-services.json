@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7142329454",
+    "firebase_url": "https://fsoserver-889f0.firebaseio.com",
+    "project_id": "fsoserver-889f0",
+    "storage_bucket": "fsoserver-889f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7142329454:android:f130d0bd0c6c27e2",
+        "android_client_info": {
+          "package_name": "com.fso.fsoservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7142329454-s4i63v8uq0ghc6s5sehaaco8o8677qje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVBe_iiAqujUH-vMGjBxJy3bqQG5-G8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
